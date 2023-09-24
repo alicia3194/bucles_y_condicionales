@@ -82,7 +82,6 @@ while (contarHasta10 < 10) {
 }
 
 //ejercicio 25
-//Crear las variables preI y preJ con valor 0 a continuación cree un bucle que itere 11 veces. En cada iteración se deberá sumar al valor de preI el valor de ++preJ
 let preI = 0;
 let preJ = 0;
 for (let i = 0; i < 11; i++) {
