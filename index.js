@@ -20,7 +20,6 @@ let resultadoAntes = ++incrementarAntes;
 let contarHasta10_2 = 0;
 for (let index = 0; index < 10; index++) {
   contarHasta10_2++;
-  console.log("🚀 ~ file: index.js:23 ~ contarHasta10_2:", contarHasta10_2);
 }
 
 // ejercicio 11
